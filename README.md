@@ -15,6 +15,6 @@ Check the repos — they do the talking.
 ---
 
 **Fun facts:**
-⚡ I debug at midnight and it somehow always works.
-🔍 Suits and Sherlock are my comfort shows — make of that what you will
-🚀 I've submitted to HackRx, Google Solution Challenge, and I'm still going...
+- I debug at midnight and it somehow always works. ⚡ 
+- Suits and Sherlock are my comfort shows — make of that what you will. 🔍
+- I've submitted to HackRx, Google Solution Challenge, and I'm still going...🚀 
