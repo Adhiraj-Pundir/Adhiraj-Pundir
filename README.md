@@ -1,39 +1,20 @@
-## Hi there 👋
-<div align="center">
+# Hey, I'm Adhiraj 👋
 
-# Adhiraj Pundir
+I'm a CS (AI/ML) undergrad at Bennett University, graduating in 2027.
 
-### CS (AI/ML) · Bennett University '27 · Greater Noida, India
+I build AI systems that actually ship — RAG pipelines, LLM fairness auditors, computer vision models, full-stack platforms. If it has a benchmark or a deployment, I'm interested.
 
-[![Email](https://img.shields.io/badge/adhirajpundir783%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adhirajpundir783@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhirajpundir783)
+My main stack is Python, PyTorch, FastAPI, and React. I spend most of my time in the AI/ML space but I'm comfortable going full-stack when needed.
 
+Check the repos — they do the talking.
 
-</div>
+**Currently working on** mechanistic interpretability research on LLMs for code-switching and safety bypass.
 
----
-
-I build AI systems that ship — RAG pipelines, fairness auditors, CV models, full-stack platforms. Not toy projects. Things with benchmarks, deployments, and results.
+**Open to** AI/ML or SWE internships — remote or on-site across India.
 
 ---
 
-## Stack
-
-```
-AI / ML     →  PyTorch · TensorFlow · HuggingFace · YOLOv8 · OpenCV · RAG
-Backend     →  FastAPI · REST APIs · Docker · Google Cloud Run · Firebase
-Frontend    →  React · Tailwind CSS · Vite · React Query
-Languages   →  Python · JavaScript · C++ · Java · SQL
-```
-
----
-
-## Currently Open To
-
-Internships in **AI/ML** or **Full-Stack SWE** — remote or on-site across India.
-
----
-
-<div align="center">
-<sub>adhirajpundir783@gmail.com </sub>
-</div>
+**Fun facts:**
+- I debug at midnight and it somehow always works
+- Suits and Sherlock are my comfort shows — make of that what you will
+- I've submitted to HackRx, Google Solution Challenge, and I'm still going
