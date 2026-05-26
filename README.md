@@ -10,7 +10,7 @@ Check the repos — they do the talking.
 
 **Currently working on** mechanistic interpretability research on LLMs for code-switching and safety bypass.
 
-**Open to** AI/ML or SWE internships — remote or on-site across India.
+📌 **Open to** AI/ML or SWE internships — remote or on-site across India.
 
 ---
 
