@@ -1,16 +1,39 @@
 ## Hi there 👋
+<div align="center">
 
-<!--
-**Adhiraj-Pundir/Adhiraj-Pundir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Adhiraj Pundir
 
-Here are some ideas to get you started:
+### CS (AI/ML) · Bennett University '27 · Greater Noida, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Email](https://img.shields.io/badge/adhirajpundir783%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adhirajpundir783@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhirajpundir783)
+
+
+</div>
+
+---
+
+I build AI systems that ship — RAG pipelines, fairness auditors, CV models, full-stack platforms. Not toy projects. Things with benchmarks, deployments, and results.
+
+---
+
+## Stack
+
+```
+AI / ML     →  PyTorch · TensorFlow · HuggingFace · YOLOv8 · OpenCV · RAG
+Backend     →  FastAPI · REST APIs · Docker · Google Cloud Run · Firebase
+Frontend    →  React · Tailwind CSS · Vite · React Query
+Languages   →  Python · JavaScript · C++ · Java · SQL
+```
+
+---
+
+## Currently Open To
+
+Internships in **AI/ML** or **Full-Stack SWE** — remote or on-site across India.
+
+---
+
+<div align="center">
+<sub>adhirajpundir783@gmail.com </sub>
+</div>
