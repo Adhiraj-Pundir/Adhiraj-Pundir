@@ -12,6 +12,8 @@ I build AI systems that actually ship — RAG pipelines, LLM fairness auditors, 
 
 📌 **Open to** AI/ML or SWE internships — remote or on-site across India.
 
+📄 **Resume** — [View / Download](https://drive.google.com/file/d/1eynagtXAuDgFzIbcTL97-_e9T1JoS5iW/view?usp=share_link) — *GitHub shows what, Resume shows why.*
+
 ---
 
 **Fun facts:**
