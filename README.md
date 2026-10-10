@@ -21,4 +21,4 @@
 ### ⚡ Fun facts
 - I debug at midnight, and somehow it always works.
 - *Suits* and *Sherlock* are my comfort shows. Make of that what you will. 🔍
-- I've competed in **HackRx** and the **Google Solution Challenge**, and I'm just getting started. 🚀
+
