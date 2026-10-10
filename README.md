@@ -1,22 +1,24 @@
 # Hey, I'm Adhiraj 👋
 
-🎓 I'm a CS (AI/ML) undergrad at Bennett University, graduating in 2027.
+🎓 CS (AI/ML) undergrad at **Bennett University**, graduating in **2027**.
 
-I build AI systems that actually ship — RAG pipelines, LLM fairness auditors, computer vision models, full-stack platforms. If it has a benchmark or a deployment, I'm interested.
+🎙️ I'm an AI intern working at the intersection of **voice AI** and **AI infrastructure**. I build real-time voicebots that combine speech-to-text, LLMs, and text-to-speech to understand callers, take actions, and respond naturally.
 
-🛠️ My main stack is Python, PyTorch, FastAPI, and React. I spend most of my time in the AI/ML space but I'm comfortable going full-stack when needed.
+⚙️ I also work on the infrastructure behind them: cutting latency, improving reliability, and deploying, monitoring, and scaling AI systems in production. In voice AI, even a one-second delay breaks the experience, so speed and reliability are what I obsess over.
 
-📂 Check the repos — they do the talking.
+🎯 My goal is to become an AI engineer who takes ideas from prototype to production, working across the full stack from models and APIs to deployment and frontend.
 
-🔬 **Currently working on** mechanistic interpretability research on LLMs for code-switching and safety bypass.
+🔬 **Currently researching:** mechanistic interpretability of LLMs, focused on code-switching and safety bypasses.
 
-📌 **Open to** AI/ML or SWE internships — remote or on-site across India.
+📌 **Open to:** AI/ML and SWE internships, remote or on-site, anywhere in the world 🌍
 
-📄 **Resume** — [View](https://drive.google.com/file/d/1eynagtXAuDgFzIbcTL97-_e9T1JoS5iW/view?usp=share_link) : *GitHub shows what, Resume shows why.*
+📄 **Resume:** [View](https://drive.google.com/file/d/1eynagtXAuDgFzIbcTL97-_e9T1JoS5iW/view?usp=share_link) .
+
+🏆 **Placed 5th** at Apart Research's Secret Loyalties Hackathon (2026) with *[Loyal Lies: Auditing Secret Loyalties Under Attack and the False-Positive Problem in Blind Elicitation](Y[OUR_LINK_HERE](https://apartresearch.com/sprints/projects/loyal-lies-auditing-secret-loyalties-under-attack-and-the-falsepositive-problem-in-blind-elicitation-ezwb))*. We showed that popular LLM auditing methods can confidently flag "hidden loyalties" in models that have none.
 
 ---
 
-**Fun facts:**
-- I debug at midnight and it somehow always works. ⚡ 
-- Suits and Sherlock are my comfort shows — make of that what you will. 🔍
-- I've submitted to HackRx, Google Solution Challenge, and I'm still going...🚀 
+### ⚡ Fun facts
+- I debug at midnight, and somehow it always works.
+- *Suits* and *Sherlock* are my comfort shows. Make of that what you will. 🔍
+- I've competed in **HackRx** and the **Google Solution Challenge**, and I'm just getting started. 🚀
