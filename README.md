@@ -10,7 +10,7 @@
 
 📌 **Open to:** AI/ML and SWE internships, remote or on-site, anywhere in the world 🌍
 
-📄 **Resume:** [View](https://drive.google.com/file/d/1eynagtXAuDgFzIbcTL97-_e9T1JoS5iW/view?usp=share_link) .
+📄 **Resume:** [View](https://drive.google.com/file/d/1H5nynG3xVFJn_69xCM3d_L7-zR6XV01h/view?usp=sharing) .
 
 🏆 **Placed 5th** at Apart Research's Secret Loyalties Hackathon (2026) with *[Loyal Lies: Auditing Secret Loyalties Under Attack and the False-Positive Problem in Blind Elicitation](https://apartresearch.com/sprints/projects/loyal-lies-auditing-secret-loyalties-under-attack-and-the-falsepositive-problem-in-blind-elicitation-ezwb)*. We showed that popular LLM auditing methods can confidently flag "hidden loyalties" in models that have none.
 
